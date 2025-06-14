@@ -1,9 +1,11 @@
 import { Navbar } from "@/components/HomePageComponents/navbar/Navbar";
 import React from "react";
+
 type Props = {
   children: React.ReactNode;
 };
-const TripLayout = ({ children }: Props) => {
+
+const HomeLayout = ({ children }: Props) => {
   return (
     <div className="flex flex-col min-h-screen">
       <Navbar isSticky={true} />
@@ -12,4 +14,4 @@ const TripLayout = ({ children }: Props) => {
   );
 };
 
-export default TripLayout;
+export default HomeLayout;

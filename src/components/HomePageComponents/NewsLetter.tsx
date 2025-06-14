@@ -30,7 +30,7 @@ export const Newsletter = () => {
               planning and booking your vacations really easy.
             </p>
             <p className="text-gray-600 mb-6">
-              Don&apos;t search, just ask Layla.
+              Don&apos;t search, just ask Flyt.
             </p>
             <p className="text-sm text-gray-500">Over 72,000 subscribers</p>
           </div>

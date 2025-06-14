@@ -11,7 +11,7 @@ export const CustomizedSchedule = () => {
           <p className="text-lg text-gray-600 max-w-4xl mx-auto leading-relaxed">
             Flyt.ai is the AI travel planner that families, couples, and
             honeymooners rely on for seamless multi-city adventures. Whether you
-            Google &quot;Flyt ai&quot; or simply say &quot;Ask Layla&apos;&quot;
+            Google &quot;Flyt ai&quot; or simply say &quot;Ask Flyt&apos;&quot;
             our smart platform turns bucket-list ideas into perfectly-timed
             routes, live reservations, and share-ready plans—so you spend less
             time searching and more time celebrating.

@@ -64,7 +64,7 @@ export const scheduleFeatures = [
     icon: Route,
     title: "AI-Powered Route Optimization by Flyt.ai",
     description:
-      "Flyt's routing system blends countless travel options, weaving together flights, trains, and car trips into a seamless, family-friendly, or romantic itinerary. Whether it's a Paris-Rome-Santorini honeymoon or a Berlin-Prague-Vienna family adventure, Layla AI pinpoints the quickest routes, minimal layovers, and best-value fares, syncing effortlessly with your AI travel planner dashboard.",
+      "Flyt's routing system blends countless travel options, weaving together flights, trains, and car trips into a seamless, family-friendly, or romantic itinerary. Whether it's a Paris-Rome-Santorini honeymoon or a Berlin-Prague-Vienna family adventure, Flyt AI pinpoints the quickest routes, minimal layovers, and best-value fares, syncing effortlessly with your AI travel planner dashboard.",
   },
   {
     id: 2,
@@ -78,7 +78,7 @@ export const scheduleFeatures = [
     icon: Users,
     title: "Collaborative Group & Family Planning Made Easy",
     description:
-      "Let everyone have a say in the fun. Layla Travel AI centralizes group chats and trip expenses, keeping families connected, couples stress-free, and honeymooners fully immersed in their multi-city journey.",
+      "Let everyone have a say in the fun. Flyt Travel AI centralizes group chats and trip expenses, keeping families connected, couples stress-free, and honeymooners fully immersed in their multi-city journey.",
   },
 ];
 
