@@ -1,4 +1,3 @@
-import * as React from "react";
 import { Map } from "@vis.gl/react-maplibre";
 import "maplibre-gl/dist/maplibre-gl.css";
 
@@ -11,7 +10,7 @@ export const Maps = () => {
           longitude: 7.262, // France coordinates can be of any location :)
           latitude: 44.5,
           zoom: 5,
-          pitch: 60,
+          pitch: 60, //help in giving a more 3d view makes the experience a bit better if user is using a map
           bearing: 0,
         }}
         style={{

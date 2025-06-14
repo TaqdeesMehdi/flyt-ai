@@ -15,13 +15,13 @@ export const Hero = () => {
           ✈️
         </p>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-          <button className="inline-flex items-center space-x-2 bg-gray-100 hover:bg-gray-200 text-gray-700 px-6 py-3 rounded-full transition-colors border-2 border-black">
+        <div className="flex flex-row gap-4 justify-center mb-12">
+          <button className="inline-flex items-center space-x-2 bg-white hover:bg-gray-50 text-gray-700 px-6 py-3 transition-colors border-b-2 border-black">
             <MessageCircle size={20} />
             <span>Ask anything</span>
           </button>
 
-          <button className="inline-flex items-center space-x-2 bg-gray-100 hover:bg-gray-200 text-gray-700 px-6 py-3 rounded-full transition-colors">
+          <button className="inline-flex items-center space-x-2 bg-white hover:bg-gray-50 text-gray-500 px-6 py-3 transition-colors">
             <Hotel size={20} />
             <span>Hotels</span>
           </button>

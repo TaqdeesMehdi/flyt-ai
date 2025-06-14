@@ -14,7 +14,7 @@ export const UserButton = () => {
       <DropdownMenuTrigger asChild>
         <Button
           variant="outline"
-          className="p-2 text-gray-600 bg-white hover:text-gray-900 transition-colors rounded-full hover:bg-gray-100"
+          className="p-2 cursor-pointer text-gray-600 bg-white hover:text-gray-900 transition-colors rounded-full hover:bg-gray-100"
         >
           <User size={20} />
         </Button>

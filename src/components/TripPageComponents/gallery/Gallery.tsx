@@ -1,5 +1,5 @@
 import React from "react";
-import { sites } from "../../../data/data";
+import { sites } from "../../../../data/data";
 import { GalleryImages } from "./GalleryImage";
 import Image from "next/image";
 

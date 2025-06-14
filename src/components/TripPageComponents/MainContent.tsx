@@ -3,7 +3,7 @@ import { HeaderTrip } from "./leftSide-header/HeaderTrip";
 import { TripOverview } from "./TripOverview";
 import { Highlight } from "./Highlight";
 import { Schedule } from "./schedules/Schedules";
-import { Gallery } from "./Gallery";
+import { Gallery } from "./gallery/Gallery";
 import { Transportation } from "./Transportations";
 
 const MainContent: React.FC = () => {

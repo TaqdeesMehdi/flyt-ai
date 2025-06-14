@@ -49,8 +49,6 @@ export const Deals = () => {
             );
           })}
         </div>
-
-        {/* the description of the images they might not be as perfectly related to the image  */}
       </div>
     </div>
   );

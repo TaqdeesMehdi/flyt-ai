@@ -9,11 +9,11 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { cn } from "@/lib/utils";
 
-interface NavbarProps {
+interface Props {
   isSticky?: boolean;
 }
-
-export const Navbar = ({ isSticky = false }: NavbarProps) => {
+//NOTE: I added it after every thing was coded , so there was an extra scroll bar in trip page it was kinda buggy so I had to remove it adding fixed in navbar was giving more bugs so used calc height property in the main content page(trip page) and add this prop to navbar
+export const Navbar = ({ isSticky = false }: Props) => {
   const [isScrolled, setIsScrolled] = useState(false);
 
   useEffect(() => {
