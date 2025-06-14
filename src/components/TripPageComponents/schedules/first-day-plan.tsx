@@ -78,7 +78,7 @@ export const FirstDayPlan = () => {
               Promenade des Anglais
             </h4>
             <p className="text-sm text-gray-700">
-              {readMore ? des : `${des[1].substring(0, 150)}`}
+              {readMore ? des : `${des[0].substring(0, 150)}`}
 
               {readMore ? (
                 <span
